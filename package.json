@@ -2,6 +2,7 @@
   "name": "second-react",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://federal2202.github.io/second-react",
   "type": "module",
   "scripts": {
     "dev": "vite",
